@@ -1,0 +1,6 @@
+path: E:/PINDAIMOBIL_yolov8/dataset
+train: train/images
+val: train/images 
+
+nc: 8
+names: ['person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck']
